@@ -8,4 +8,4 @@
 //PlayerMovement_ kod dosyası ile ana oyuncunun animasyon ve hareket sistemleri çalışıyor.
 //Shooting  kod dosyası ile ana oyuncunun ateş mekaniği ve bu mekanik üzerinde çalışan sistemler kodlanmıştır.
 //ShootingEnemy kod dosyası ile düşman objelerinin ateş mekanikleri ve ana oyuncu referanslı hareketleri çalışıyor(Örneğin ana oyuncuya göre pozisyon almaları ve takip etmeleri gibi)
-Video Link:https://drive.google.com/file/d/1ZQHpN_c2dk-HNKq1q6uXpM7xXDtpiUSX/view?usp=sharing
+Video Link:https://drive.google.com/file/d/1jgaAfX9bFu_BydgLcaA7TsOaWWeaknmE/view?usp=sharing
