@@ -63,11 +63,11 @@ public class Kontrol : MonoBehaviour
         
         if (pm.health <= 0)
         {
-            Debug.Log("Öldün Ahaha");
+            Debug.Log("Öldüm");
         }
         if (Se.EnemyHealth <= 0)
         {
-            Debug.Log("Öldün Piç");
+            Debug.Log("Öldü");
         }
         if (pm.movement.x > 0 || pm.movement.y > 0 || pm.movement.x < 0 || pm.movement.y < 0)
         {
